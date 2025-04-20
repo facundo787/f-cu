@@ -41,8 +41,8 @@
 </head>
 <body>
     <div class="contenedor">
-        <h1 , <%= nombre %> PUTO EL QUE LEE
-        <p> JAJAJAJAJAJAJAJAJAJA 
+         PUTO EL QUE LEE
+        <p> JAJAJAJAJAJAJAJAJAJA</P>
         <P> IVAN PUTOOOOOO</P>
         </p>
     </div>
